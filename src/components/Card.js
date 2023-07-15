@@ -39,3 +39,17 @@ const Card = (props) => {
   );
 };
 export default Card;
+diff --git a/src/pages/index.js b/src/pages/index.js
+index 5958ebb..625497e 100644
+--- a/src/pages/index.js
++++ b/src/pages/index.js
+@@ -1,4 +1,5 @@
+-import Head from "next/head";
++
++importimportimportimportimportimportimportimport Head from "next/head";
+ import Image from "next/image";
+ import Link from "next/link";
+ import { useRouter } from "next/router";
+diff --git a/src/public/logo_white.png b/src/public/logo_white.png
+index 1bf7d28..d615660 100644
+Binary files a/src/public/logo_white.png and b/src/public/logo_white.png differ
